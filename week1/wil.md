@@ -1,5 +1,8 @@
 ### 개발 입문 1주차 wil
 
+#### 배포 링크
+https://devintro-gamma.vercel.app/
+
 ##### 개발환경 설치
 
 * 버전 관리/협업도구 : 깃/깃허브
